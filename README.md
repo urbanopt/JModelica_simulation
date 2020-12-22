@@ -1,2 +1,2 @@
-# JModelica_simulation
-GitHub repo for storing scripts related to simulation using JModelica. The initial focus is on simulation in HPC environments.
+# JModelica Simulation
+GitHub repo for storing scripts related to simulation of Modelica models using JModelica. The initial focus is on simulation in HPC environments.
